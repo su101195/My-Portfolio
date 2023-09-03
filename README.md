@@ -35,6 +35,6 @@ Reduced the thrust value ∆v by 20% using Fmincon as compared to the value obta
 Was involved in Magnet design and performing simulations to ensure the proposed design parameters of the Magnets and Rods achieved the required objective. 
 
 ## Publications
-- D. Wischert, S. Parasuram et al., “Conceptual Design of a Mars Constellation for Global Communication Services using Small Satellites”, (accessed Sep. 3, 2023).
-- C. Chanen et al., “Inspiring the next generation: Challenges and strategies for onboarding and retention in an undergraduate CubeSat design team,” DigitalCommons@ USU, (accessed Sep. 3, 2023).  
-- R. Gomes et al., "Conceptual Design of a Sustainable SmallSat Constellation to Enable Reliable Lunar Communication Network",  (accessed Sep. 3, 2023). 
+1. D. Wischert, S. Parasuram et al., “Conceptual Design of a Mars Constellation for Global Communication Services using Small Satellites”, (accessed Sep. 3, 2023).
+2. C. Chanen et al., “Inspiring the next generation: Challenges and strategies for onboarding and retention in an undergraduate CubeSat design team,” DigitalCommons@ USU, (accessed Sep. 3, 2023).  
+3. R. Gomes et al., "Conceptual Design of a Sustainable SmallSat Constellation to Enable Reliable Lunar Communication Network",  (accessed Sep. 3, 2023). 
